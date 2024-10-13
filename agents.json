@@ -2,7 +2,7 @@
   {
     "id": "",
     "identifier": "compliance-gpt",
-    "title": "Compliance GPT",
+    "title": "Compliance Agent",
     "description": "ComplianceGPT developed by Zand AI",
     "tags": [],
     "avatar": "🤖",
@@ -18,7 +18,7 @@
   {
     "id": "",
     "identifier": "zand-bank",
-    "title": "Zand Bank",
+    "title": "Customer Support Agent",
     "description": "An AI customer support agent for Zand Bank",
     "tags": [],
     "avatar": "🏦",
