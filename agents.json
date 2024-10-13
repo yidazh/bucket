@@ -1,0 +1,50 @@
+[
+  {
+    "id": "",
+    "identifier": "compliance-gpt",
+    "title": "Compliance GPT",
+    "description": "ComplianceGPT developed by Zand AI",
+    "tags": [],
+    "avatar": "🤖",
+    "homepage": "",
+    "category": "",
+    "author": "Zand AI",
+    "provider": "dify",
+    "model": "compliance-gpt",
+    "params": "",
+    "prompt": "",
+    "apiUrl": ""
+  },
+  {
+    "id": "",
+    "identifier": "zand-bank",
+    "title": "Zand Bank",
+    "description": "An AI customer support agent for Zand Bank",
+    "tags": [],
+    "avatar": "🏦",
+    "homepage": "",
+    "category": "",
+    "author": "Zand AI",
+    "provider": "dify",
+    "model": "zand-bank",
+    "params": "",
+    "prompt": "",
+    "apiUrl": ""
+  },
+  {
+    "id": "",
+    "identifier": "",
+    "title": "",
+    "description": "",
+    "tags": [],
+    "avatar": "",
+    "homepage": "",
+    "category": "",
+    "author": "",
+    "provider": "",
+    "model": "",
+    "params": "",
+    "prompt": "",
+    "apiUrl": ""
+  }
+]
