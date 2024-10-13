@@ -17,7 +17,7 @@
   },
   {
     "id": "",
-    "identifier": "zand-bank",
+    "identifier": "customer-support",
     "title": "Customer Support Agent",
     "description": "An AI customer support agent for Zand Bank",
     "tags": [],
@@ -26,7 +26,7 @@
     "category": "",
     "author": "Zand AI",
     "provider": "dify",
-    "model": "zand-bank",
+    "model": "customer-support",
     "params": "",
     "prompt": "",
     "apiUrl": "https://builder.zandlab.ai/v1"
