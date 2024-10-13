@@ -13,7 +13,7 @@
     "model": "compliance-gpt",
     "params": "",
     "prompt": "",
-    "apiUrl": "https://udjhqnlf.cloud.sealos.io/v1"
+    "apiUrl": "https://builder.zandlab.ai/v1"
   },
   {
     "id": "",
@@ -29,7 +29,23 @@
     "model": "zand-bank",
     "params": "",
     "prompt": "",
-    "apiUrl": "https://udjhqnlf.cloud.sealos.io/v1"
+    "apiUrl": "https://builder.zandlab.ai/v1"
+  },
+  {
+    "id": "",
+    "identifier": "stock-analyst",
+    "title": "Stock Analyst Agent",
+    "description": "",
+    "tags": [],
+    "avatar": "📈",
+    "homepage": "",
+    "category": "",
+    "author": "Zand AI",
+    "provider": "dify",
+    "model": "stock-analyst",
+    "params": "",
+    "prompt": "",
+    "apiUrl": "https://builder.zandlab.ai/v1"
   },
   {
     "id": "",
