@@ -13,7 +13,7 @@
     "model": "compliance-gpt",
     "params": "",
     "prompt": "",
-    "apiUrl": ""
+    "apiUrl": "https://udjhqnlf.cloud.sealos.io/v1"
   },
   {
     "id": "",
@@ -29,7 +29,7 @@
     "model": "zand-bank",
     "params": "",
     "prompt": "",
-    "apiUrl": ""
+    "apiUrl": "https://udjhqnlf.cloud.sealos.io/v1"
   },
   {
     "id": "",
