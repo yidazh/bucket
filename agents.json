@@ -71,6 +71,7 @@
   },
   {
     "id": "",
+    "identifier": "meeting",
     "avatar": "🗣️",
     "description": "Professional meeting report assistant, distilling meeting key points into report sentences",
     "tags": ["Meeting Reports", "Writing", "Communication", "Workflow", "Professional Skills"],
@@ -86,7 +87,7 @@
   },
   {
     "id": "",
-    "identifier": "",
+    "identifier": "search-engine-optimizer",
     "avatar": "🔎",
     "description": "Specializes in search engine optimization, providing keyword, sentence structure optimization, and search tips suggestions",
     "tags": [
