@@ -2,7 +2,7 @@
   {
     "id": "",
     "identifier": "compliance-gpt",
-    "title": "Compliance Agent",
+    "title": "Compliance Expert",
     "description": "Compliance Agent developed by Zand AI",
     "tags": [],
     "avatar": "🤖",
@@ -34,8 +34,8 @@
   {
     "id": "",
     "identifier": "stock-analyst",
-    "title": "Stock Analyst Agent",
-    "description": "",
+    "title": "Investment Advisor",
+    "description": "Our GenAI-powered investment advisor leverages advanced artificial intelligence to provide personalized, real-time investment recommendations, optimizing financial strategies through continuous analysis of market trends and individual financial goals.",
     "tags": [],
     "avatar": "📈",
     "homepage": "",
@@ -59,7 +59,7 @@
       "cross-cultural communication",
       "GitHub and open-source community"
     ],
-    "title": "Business Email Writing Expert",
+    "title": "Business Proposal Expert",
     "category": "copywriting",
     "homepage": "",
     "author": "Zand AI",
@@ -75,7 +75,7 @@
     "avatar": "🗣️",
     "description": "Professional meeting report assistant, distilling meeting key points into report sentences",
     "tags": ["Meeting Reports", "Writing", "Communication", "Workflow", "Professional Skills"],
-    "title": "Meeting Assistant v1.0",
+    "title": "Meeting Assistant",
     "category": "office",
     "homepage": "",
     "author": "Zand AI",
@@ -97,7 +97,7 @@
       "Sentence Structure Optimization",
       "Search Tips"
     ],
-    "title": "SEO Specialist",
+    "title": "Digital Marketing Specialist",
     "category": "marketing",
     "homepage": "",
     "author": "Zand AI",
