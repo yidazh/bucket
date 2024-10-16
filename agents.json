@@ -13,7 +13,7 @@
     "model": "compliance-gpt",
     "params": "",
     "prompt": "",
-    "apiUrl": "https://43.135.15.160/v1"
+    "apiUrl": "http://43.135.15.160/v1"
   },
   {
     "id": "",
@@ -29,7 +29,7 @@
     "model": "customer-support",
     "params": "",
     "prompt": "",
-    "apiUrl": "https://43.135.15.160/v1"
+    "apiUrl": "http://43.135.15.160/v1"
   },
   {
     "id": "",
