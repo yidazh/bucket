@@ -45,7 +45,7 @@
     "model": "stock-analyst",
     "params": "",
     "prompt": "",
-    "apiUrl": "https://builder.zandlab.ai/v1"
+    "apiUrl": "http://43.135.15.160/v1"
   },
   {
     "id": "",
